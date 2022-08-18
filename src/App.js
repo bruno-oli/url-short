@@ -51,7 +51,7 @@ function App() {
         <section className="started">
           <img src={WorkingImage} alt="" />
           <h1>More than just shorter links</h1>
-          <p>Build your brands recognition and get detailed insights on how your links are perfoming.</p>
+          <p>Build your brand recognition and get detailed insights on how your links are perfoming.</p>
           <button>Get Started</button>
         </section>
         <section className="input__link">
